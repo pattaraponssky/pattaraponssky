@@ -5,10 +5,9 @@
 
 
 ## 🚀 About Me
-My name is Pattarapon Somsakul 😊   
-I'm a student. @Rajamangala University of Technology Thanyaburi🏢
+###My name is Pattarapon Somsakul 😊   
+###I'm a student. @Rajamangala University of Technology Thanyaburi🏢
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
