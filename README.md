@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 ### My name is Pattarapon Somsakul 😊   
-### I'm a student. @Rajamangala University of Technology Thanyaburi🏢
+### I'm graduated from @Rajamangala University of Technology Thanyaburi🏢
 
 
 <h3 align="left">Connect with me:</h3>
